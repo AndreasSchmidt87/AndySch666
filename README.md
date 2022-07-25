@@ -1,7 +1,7 @@
 # Hi, I’m AndySch666
 
 - 👀 I’m interested in Musik and MTB
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Coding (HTML, CSS, JavaScript)
 - 💞️ I’m looking forward to collaborate with my team
 
 <!---
