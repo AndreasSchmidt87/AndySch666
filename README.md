@@ -12,6 +12,7 @@ My target skills after Bootcamp:<br>
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=AndySch666&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndySch666&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndySch666&theme=dark)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AndySch666.AndySch666&color=00cf00)
 
