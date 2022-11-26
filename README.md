@@ -1,4 +1,4 @@
-#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Hi, I’m AndySch666  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Hi, I’m Andreas Schmidt  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 - 👀 I’m interested in Musik and MTB 
 - 🌱 I’m currently learning Coding @[NeueFische GmbH](https://www.neuefische.de)
